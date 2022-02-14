@@ -1,0 +1,6 @@
+This project demonstrates the power of RSA and DES encryption by:
+- Generating and RSA key pair
+- Encrypting a user inputted DES key with RSA
+- Encrypt and show an image using DES
+- Decode the encrypted key
+- Unencrypt the image using the recovered key
