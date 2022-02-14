@@ -1,0 +1,3 @@
+Used with XMEGA software AES traces
+
+Used to create a chosen plaintext attack (CPA) by monitoring partial guessing entropy with the number of traces.
